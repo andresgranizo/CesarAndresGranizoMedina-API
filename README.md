@@ -11,6 +11,7 @@ This repository contains API tests for the signup and login functionalities of t
 1. Clone the repository:
    ```bash
    git clone
+    https://github.com/andresgranizo/CesarAndresGranizoMedina-API.git
 
 2. Install Dependencies
    * npm install
